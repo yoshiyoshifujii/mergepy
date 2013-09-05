@@ -5,7 +5,7 @@ mergepy
 
 使い方は簡単。
 
-> "python main.py 参照元のパス 参照先のパス 出力先のパス"
+> python main.py 参照元のパス 参照先のパス 出力先のパス
 
 と実行してやれば、
 
@@ -16,7 +16,7 @@ mergepy
 
 詳しくは、
 
-> "python main.py --help"
+> python main.py --help
 
 を参照。
 
